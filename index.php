@@ -24,7 +24,7 @@
 
     <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
       <h1 class="display-5">ROROR TEST BOARD</h1>
-      <p class="lead">SQL Injection 실습을 위한 DBMS별 게시판</p>
+      <p class="lead">Test Injection 실습을 위한 DBMS별 게시판</p>
     </div>
 
     <div class="container">
